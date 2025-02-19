@@ -1,0 +1,6 @@
+langchain
+pip install langchain-community
+pip install openai
+pip install python-dotenv
+pip install duckduckgo-search
+pip install wikipedia
